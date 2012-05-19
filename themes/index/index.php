@@ -132,7 +132,6 @@ label.ln {
 			}
 		});
 		$( "#datepicker" ).datepicker({ dateFormat: "yy-mm-dd" });
-		$('#msg').fadeOut(5000);
 	});   
 </script>
 </body>
