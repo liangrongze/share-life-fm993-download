@@ -131,7 +131,7 @@ label.ln {
 				return false;
 			}
 		});
-		$( "#datepicker" ).datepicker({ dateFormat: "yy-mm-dd" });
+		$( "#datepicker" ).datepicker({ dateFormat: "yy-mm-dd" }); 
 	});   
 </script>
 </body>
