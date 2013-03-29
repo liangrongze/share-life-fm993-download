@@ -25,5 +25,6 @@ $p_file = PATH_BASE . DS . 'pages' . DS . $p.'.php';
 if (! is_file($p_file)) exit('File ' . $p_file . ' no exist');
 require_once($p_file);
 
+
 // End of index.php
 // Location ./index.php
